@@ -1,0 +1,387 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ordesignerObjectsDiagram dslVersion="1.0.0.0" absoluteBounds="0, 0, 17.375, 30.875" name="LDSong">
+  <DataContextMoniker Name="/LDSongDataContext" />
+  <nestedChildShapes>
+    <classShape Id="4b0457d9-453a-43c3-a3fc-f9eec3cab69d" absoluteBounds="0.625, 7.125, 2, 1.5785953776041666">
+      <DataClassMoniker Name="/LDSongDataContext/D_CAP_DAP" />
+      <nestedChildShapes>
+        <elementListCompartment Id="e04e44a9-ed74-4235-84fb-06052f0ae345" absoluteBounds="0.64000000000000012, 7.585, 1.9700000000000002, 1.0185953776041665" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="86bdc8b3-7952-4f1d-a534-78dee1e25750" absoluteBounds="0.75, 0.75, 2, 1.1939925130208335">
+      <DataClassMoniker Name="/LDSongDataContext/D_LOAI_TBI" />
+      <nestedChildShapes>
+        <elementListCompartment Id="3da93b28-f83f-4fb7-b392-f7a177784aad" absoluteBounds="0.765, 1.21, 1.9700000000000002, 0.63399251302083326" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="7b60236d-aff1-45c6-a093-41902a2b25ae" absoluteBounds="1.375, 4.125, 2, 2.3478011067708344">
+      <DataClassMoniker Name="/LDSongDataContext/D_QHE_PTDIEN" />
+      <nestedChildShapes>
+        <elementListCompartment Id="f52e1357-35d7-446d-94e6-1eae29c55383" absoluteBounds="1.3900000000000006, 4.585, 1.9700000000000002, 1.7878011067708335" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="4f5a1fa9-0551-4245-873d-2aee62f2b494" absoluteBounds="11.25, 8.125, 2, 1.9631982421875005">
+      <DataClassMoniker Name="/LDSongDataContext/S_MENU" />
+      <nestedChildShapes>
+        <elementListCompartment Id="fa7c919a-dcd5-4940-b2ef-100236a26327" absoluteBounds="11.265, 8.585, 1.9700000000000002, 1.4031982421875" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="3a8994a9-ed2d-4c22-af2d-11686d48fd49" absoluteBounds="12, 4.75, 2, 3.1170068359375014">
+      <DataClassMoniker Name="/LDSongDataContext/S_USER" />
+      <nestedChildShapes>
+        <elementListCompartment Id="a2bf9d59-8626-45ac-ab22-f4d0e9d1922d" absoluteBounds="12.015, 5.21, 1.9700000000000002, 2.5570068359375" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="685df95c-a70c-4df7-b3e0-eed762e2e49e" absoluteBounds="11.875, 0.5, 2, 1.1939925130208333">
+      <DataClassMoniker Name="/LDSongDataContext/D_LOAI_YCAU" />
+      <nestedChildShapes>
+        <elementListCompartment Id="effb250a-d4fa-462f-9fe4-1aaa41d3269f" absoluteBounds="11.89, 0.96, 1.9700000000000002, 0.63399251302083326" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="224887ee-0b62-4948-b9c7-970c8a7ee74a" absoluteBounds="14.375, 4.75, 2, 1.5785953776041666">
+      <DataClassMoniker Name="/LDSongDataContext/S_GROUP" />
+      <nestedChildShapes>
+        <elementListCompartment Id="a4127794-8d54-45d2-bce7-4c1d260845e1" absoluteBounds="14.39, 5.21, 1.9700000000000002, 1.0185953776041665" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="ee7c6afb-b173-44bf-953f-46dd857976d6" absoluteBounds="9.25, 6.125, 2, 2.9247054036458331">
+      <DataClassMoniker Name="/LDSongDataContext/K_DIEM_DO" />
+      <nestedChildShapes>
+        <elementListCompartment Id="c6e81428-7095-485a-b391-611191cc29ca" absoluteBounds="9.265, 6.5850000000000009, 1.9700000000000002, 2.364705403645833" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="cd1e3a0a-d0a5-4a5e-889a-5b367201032b" absoluteBounds="12.375, 2.25, 2, 1.9631982421875">
+      <DataClassMoniker Name="/LDSongDataContext/K_KHACH_HANG" />
+      <nestedChildShapes>
+        <elementListCompartment Id="8aa2bc35-c2de-45ec-83b7-7aae99e1d379" absoluteBounds="12.39, 2.71, 1.9700000000000002, 1.4031982421875" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="4398c417-5a39-4481-805f-647c203e0efb" absoluteBounds="3.25, 15.5, 2, 3.3093082682291666">
+      <DataClassMoniker Name="/LDSongDataContext/M_VITRI_V2" />
+      <nestedChildShapes>
+        <elementListCompartment Id="5084d370-a1a7-4f61-b106-da40d6042778" absoluteBounds="3.2650000000000006, 15.96, 1.9700000000000002, 2.7493082682291665" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <associationConnector edgePoints="[(14.375 : 5.53929768880208); (14 : 5.53929768880208)]" fixedFrom="NotFixed" fixedTo="NotFixed">
+      <AssociationMoniker Name="/LDSongDataContext/S_GROUP/S_GROUP_S_USER" />
+      <nodes>
+        <classShapeMoniker Id="224887ee-0b62-4948-b9c7-970c8a7ee74a" />
+        <classShapeMoniker Id="3a8994a9-ed2d-4c22-af2d-11686d48fd49" />
+      </nodes>
+    </associationConnector>
+    <classShape Id="4761957f-50c7-4f35-b845-f17a06622582" absoluteBounds="0.625, 11.5, 2, 4.0785139973958326">
+      <DataClassMoniker Name="/LDSongDataContext/HISTORY_DELETE_DPTIDEN" />
+      <nestedChildShapes>
+        <elementListCompartment Id="af6f3914-9f79-4130-9fb9-763c24e21bef" absoluteBounds="0.64000000000000012, 11.96, 1.9700000000000002, 3.518513997395833" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="43afb764-d88a-4db0-a158-b002bb36eab7" absoluteBounds="3.875, 13.5, 2, 1.7708968098958331">
+      <DataClassMoniker Name="/LDSongDataContext/HISTORY_LOGIN" />
+      <nestedChildShapes>
+        <elementListCompartment Id="c4b1175c-86b4-492d-82ab-52301eaa2f23" absoluteBounds="3.8899999999999997, 13.96, 1.9700000000000002, 1.2108968098958333" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="2f0b38f2-0355-4fc8-a67c-272aaeaf26c4" absoluteBounds="9, 9.875, 2, 2.5401025390625">
+      <DataClassMoniker Name="/LDSongDataContext/M_VITRI_V" />
+      <nestedChildShapes>
+        <elementListCompartment Id="01ae7ecc-8f02-4e7b-8394-4b0afbb4ebfb" absoluteBounds="9.015, 10.335, 1.9700000000000002, 1.9801025390625" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="6d2f1a45-d0f3-4245-9f7d-1d9a21441c35" absoluteBounds="6.75, 13.625, 2, 1.9631982421875">
+      <DataClassMoniker Name="/LDSongDataContext/S_BAOCAO" />
+      <nestedChildShapes>
+        <elementListCompartment Id="9ad04660-70eb-48db-a865-568dedd64970" absoluteBounds="6.765, 14.085, 1.9700000000000002, 1.4031982421875" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="e0f9b4dd-f093-4bc3-84df-bf2c3882ccd7" absoluteBounds="9.5, 13.5, 2, 1.9631982421875">
+      <DataClassMoniker Name="/LDSongDataContext/HISTORY_TTHAI_PTDIEN" />
+      <nestedChildShapes>
+        <elementListCompartment Id="bc162fbe-08c2-47e8-a110-ce7b93fe84e1" absoluteBounds="9.515, 13.96, 1.9700000000000002, 1.4031982421875" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="af802a80-25bc-4701-af4e-1c10e6ac6f79" absoluteBounds="9.75, 4, 2, 1.7708968098958331">
+      <DataClassMoniker Name="/LDSongDataContext/M_TTHAI_PTDIEN_CMI" />
+      <nestedChildShapes>
+        <elementListCompartment Id="40812a24-d930-4fe4-959f-1643a333fae2" absoluteBounds="9.765, 4.46, 1.9700000000000002, 1.2108968098958333" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="dc7fb41c-c928-489d-8692-005ba25236c8" absoluteBounds="4, 2.25, 2, 3.6939111328124996">
+      <DataClassMoniker Name="/LDSongDataContext/D_PTDIEN" />
+      <nestedChildShapes>
+        <elementListCompartment Id="016449e3-87e3-45cc-b5b8-706300c6c841" absoluteBounds="4.015, 2.71, 1.9700000000000002, 3.1339111328125" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <associationConnector edgePoints="[(0.9140625 : 1.94399251302083); (0.9140625 : 4.00522170247396); (4 : 4.00522170247396)]" fixedFrom="NotFixed" fixedTo="NotFixed">
+      <AssociationMoniker Name="/LDSongDataContext/D_LOAI_TBI/D_LOAI_TBI_D_PTDIEN" />
+      <nodes>
+        <classShapeMoniker Id="86bdc8b3-7952-4f1d-a534-78dee1e25750" />
+        <classShapeMoniker Id="dc7fb41c-c928-489d-8692-005ba25236c8" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(0.765625 : 7.125); (0.765625 : 4.03647420247396); (4 : 4.03647420247396)]" fixedFrom="NotFixed" fixedTo="NotFixed">
+      <AssociationMoniker Name="/LDSongDataContext/D_CAP_DAP/D_CAP_DAP_D_PTDIEN" />
+      <nodes>
+        <classShapeMoniker Id="4b0457d9-453a-43c3-a3fc-f9eec3cab69d" />
+        <classShapeMoniker Id="dc7fb41c-c928-489d-8692-005ba25236c8" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(4 : 5.03445556640625); (3.375 : 5.03445556640625)]" fixedFrom="NotFixed" fixedTo="NotFixed">
+      <AssociationMoniker Name="/LDSongDataContext/D_PTDIEN/D_PTDIEN_D_QHE_PTDIEN" />
+      <nodes>
+        <classShapeMoniker Id="dc7fb41c-c928-489d-8692-005ba25236c8" />
+        <classShapeMoniker Id="7b60236d-aff1-45c6-a093-41902a2b25ae" />
+      </nodes>
+    </associationConnector>
+    <classShape Id="43586f5d-9e84-4eb6-b312-9cf5c7e4ad46" absoluteBounds="4, 0.5, 2, 1.1939925130208333">
+      <DataClassMoniker Name="/LDSongDataContext/M_TTHAI_CD_KDCB" />
+      <nestedChildShapes>
+        <elementListCompartment Id="6b8dfcf4-cf78-41a6-a361-aa35811bc5bb" absoluteBounds="4.015, 0.96, 1.9700000000000002, 0.63399251302083326" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <associationConnector edgePoints="[(5 : 2.25); (5 : 1.69399251302083)]" fixedFrom="NotFixed" fixedTo="NotFixed">
+      <AssociationMoniker Name="/LDSongDataContext/D_PTDIEN/D_PTDIEN_M_TTHAI_CD_KDCB" />
+      <nodes>
+        <classShapeMoniker Id="dc7fb41c-c928-489d-8692-005ba25236c8" />
+        <classShapeMoniker Id="43586f5d-9e84-4eb6-b312-9cf5c7e4ad46" />
+      </nodes>
+    </associationConnector>
+    <classShape Id="10ffcd43-e9da-41c0-8054-00e470fce60d" absoluteBounds="0.875, 14.5, 2, 2.3478011067708335">
+      <DataClassMoniker Name="/LDSongDataContext/M_VITRI_V0" />
+      <nestedChildShapes>
+        <elementListCompartment Id="91bff2bf-1c10-4fae-9c9b-9810d353d84f" absoluteBounds="0.88999999999999968, 14.96, 1.9700000000000002, 1.7878011067708335" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="28724f8f-c7d4-4682-a97b-4e6975b6c25c" absoluteBounds="6.5, 0.5, 2, 2.1554996744791666">
+      <DataClassMoniker Name="/LDSongDataContext/M_TTHAI_PTDIEN" />
+      <nestedChildShapes>
+        <elementListCompartment Id="1ec3b034-22d3-4108-99a9-39c59ff2d53a" absoluteBounds="6.515, 0.96, 1.9700000000000002, 1.5954996744791665" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <associationConnector edgePoints="[(6 : 2.45274983723958); (6.5 : 2.45274983723958)]" fixedFrom="NotFixed" fixedTo="NotFixed">
+      <AssociationMoniker Name="/LDSongDataContext/D_PTDIEN/D_PTDIEN_M_TTHAI_PTDIEN" />
+      <nodes>
+        <classShapeMoniker Id="dc7fb41c-c928-489d-8692-005ba25236c8" />
+        <classShapeMoniker Id="28724f8f-c7d4-4682-a97b-4e6975b6c25c" />
+      </nodes>
+    </associationConnector>
+    <classShape Id="d385b762-1815-49b0-bc05-2a5c1012012c" absoluteBounds="5.125, 6.75, 2, 2.1554996744791666">
+      <DataClassMoniker Name="/LDSongDataContext/D_QHE_PTDIEN_VITRI" />
+      <nestedChildShapes>
+        <elementListCompartment Id="742ec8e2-c6d0-4971-8549-f21bdae54105" absoluteBounds="5.14, 7.21, 1.9700000000000002, 1.5954996744791665" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <associationConnector edgePoints="[(5.5625 : 5.9439111328125); (5.5625 : 6.75)]" fixedFrom="NotFixed" fixedTo="NotFixed">
+      <AssociationMoniker Name="/LDSongDataContext/D_PTDIEN/D_PTDIEN_D_QHE_PTDIEN_VITRI" />
+      <nodes>
+        <classShapeMoniker Id="dc7fb41c-c928-489d-8692-005ba25236c8" />
+        <classShapeMoniker Id="d385b762-1815-49b0-bc05-2a5c1012012c" />
+      </nodes>
+    </associationConnector>
+    <classShape Id="86b8ce76-4425-45fc-b8ac-8076e9714966" absoluteBounds="5.5, 16, 2, 3.6939111328124996">
+      <DataClassMoniker Name="/LDSongDataContext/M_VITRI_V1_VM" />
+      <nestedChildShapes>
+        <elementListCompartment Id="9f16b21d-98ae-4482-9128-072e2c1f386f" absoluteBounds="5.515, 16.46, 1.9700000000000002, 3.1339111328125" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="ba6dd35f-23c9-4d96-bc2a-81472853f02c" absoluteBounds="7.625, 16.25, 2, 3.3093082682291666">
+      <DataClassMoniker Name="/LDSongDataContext/M_VITRI_V2_VM" />
+      <nestedChildShapes>
+        <elementListCompartment Id="089b62e9-dfea-482a-be17-cad665c1f05a" absoluteBounds="7.64, 16.71, 1.9700000000000002, 2.7493082682291665" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="9b97bd4e-1344-4277-a3b6-7f7c9f16b087" absoluteBounds="7, 3.125, 2, 2.1554996744791666">
+      <DataClassMoniker Name="/LDSongDataContext/M_TTHAI_PTDIEN_VM" />
+      <nestedChildShapes>
+        <elementListCompartment Id="0a2ac8d5-a3e5-419c-aa6f-e7efc516f802" absoluteBounds="7.015, 3.585, 1.9700000000000002, 1.5954996744791665" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="2311db54-16d0-4efc-9b95-64200c72e696" absoluteBounds="7.25, 5.5, 2, 2.3478011067708335">
+      <DataClassMoniker Name="/LDSongDataContext/M_TTHAI_PTDIEN_LR_VM" />
+      <nestedChildShapes>
+        <elementListCompartment Id="72714558-69c1-4c67-9197-d333adb3bd8f" absoluteBounds="7.265, 5.96, 1.9700000000000002, 1.7878011067708335" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <associationConnector edgePoints="[(6 : 4.20274983723958); (7 : 4.20274983723958)]" fixedFrom="NotFixed" fixedTo="NotFixed">
+      <AssociationMoniker Name="/LDSongDataContext/D_PTDIEN/D_PTDIEN_M_TTHAI_PTDIEN_VM" />
+      <nodes>
+        <classShapeMoniker Id="dc7fb41c-c928-489d-8692-005ba25236c8" />
+        <classShapeMoniker Id="9b97bd4e-1344-4277-a3b6-7f7c9f16b087" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(5.531252 : 2.25); (5.531252 : 2.12712); (6.41808 : 2.12712); (6.41808 : 2.73741967447917); (8.25 : 2.73741967447917); (8.25 : 3.04308); (9.04308 : 3.04308); (9.04308 : 3.42972110677083); (9.08192 : 3.42972110677083); (9.08192 : 5.37712); (8.25 : 5.37712); (8.25 : 5.5)]" fixedFrom="NotFixed" fixedTo="NotFixed">
+      <AssociationMoniker Name="/LDSongDataContext/D_PTDIEN/D_PTDIEN_M_TTHAI_PTDIEN_LR_VM" />
+      <nodes>
+        <classShapeMoniker Id="dc7fb41c-c928-489d-8692-005ba25236c8" />
+        <classShapeMoniker Id="2311db54-16d0-4efc-9b95-64200c72e696" />
+      </nodes>
+    </associationConnector>
+    <classShape Id="1ee1ec9c-6927-488c-a965-8205822c4f3b" absoluteBounds="1.375, 19.875, 2, 1.7708968098958331">
+      <DataClassMoniker Name="/LDSongDataContext/M_VITRI_SD1S_DZ_V" />
+      <nestedChildShapes>
+        <elementListCompartment Id="caa0bb32-0da0-4c55-b2f2-53d0a388d933" absoluteBounds="1.3900000000000001, 20.335, 1.9700000000000002, 1.2108968098958333" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="927f87bf-133e-47f5-9c65-f549abd45628" absoluteBounds="0.625, 17, 2, 2.5401025390625">
+      <DataClassMoniker Name="/LDSongDataContext/M_VITRI_SD1S_V2" />
+      <nestedChildShapes>
+        <elementListCompartment Id="34906a89-b190-464b-96cd-63fd671639c3" absoluteBounds="0.64000000000000012, 17.46, 1.9700000000000002, 1.9801025390625" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="dbd68925-49fc-40f5-aa94-0e383687c326" absoluteBounds="4.375, 20, 2, 1.9631982421875">
+      <DataClassMoniker Name="/LDSongDataContext/M_NOTE_V" />
+      <nestedChildShapes>
+        <elementListCompartment Id="cf75ff92-c266-4f9e-8b3f-c9acfabe31e0" absoluteBounds="4.39, 20.46, 1.9700000000000002, 1.4031982421875" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="8769ffd4-e4a7-492c-8eb9-adcb171b69fd" absoluteBounds="3.125, 16.75, 2, 2.5401025390625">
+      <DataClassMoniker Name="/LDSongDataContext/M_VITRI_V_VM" />
+      <nestedChildShapes>
+        <elementListCompartment Id="0443f531-7a4d-471f-921f-eaea530d7fa6" absoluteBounds="3.14, 17.21, 1.9700000000000002, 1.9801025390625" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="5f6c61df-6314-421e-8d9a-0d8493b78aae" absoluteBounds="6.875, 20.125, 2, 2.3478011067708335">
+      <DataClassMoniker Name="/LDSongDataContext/M_VITRI_V0_VM" />
+      <nestedChildShapes>
+        <elementListCompartment Id="3898fded-b206-4298-ac6f-f073c096ca50" absoluteBounds="6.89, 20.585, 1.9700000000000002, 1.7878011067708335" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="e3ede3f9-f259-49cb-9992-edfbf6d99f5d" absoluteBounds="15.125, 1.625, 2, 2.7324039713541666">
+      <DataClassMoniker Name="/LDSongDataContext/K_YEU_CAU" />
+      <nestedChildShapes>
+        <elementListCompartment Id="6a063860-fb0b-41b3-98c9-5044ac585a01" absoluteBounds="15.14, 2.085, 1.9700000000000002, 2.1724039713541665" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <associationConnector edgePoints="[(14.375 : 3.23159912109375); (15.125 : 3.23159912109375)]" fixedFrom="NotFixed" fixedTo="NotFixed">
+      <AssociationMoniker Name="/LDSongDataContext/K_KHACH_HANG/K_KHACH_HANG_K_YEU_CAU" />
+      <nodes>
+        <classShapeMoniker Id="cd1e3a0a-d0a5-4a5e-889a-5b367201032b" />
+        <classShapeMoniker Id="e3ede3f9-f259-49cb-9992-edfbf6d99f5d" />
+      </nodes>
+    </associationConnector>
+    <classShape Id="925869c9-18c7-479a-a940-bb2367b22e18" absoluteBounds="9.125, 1, 2, 2.3478011067708335">
+      <DataClassMoniker Name="/LDSongDataContext/M_TTHAI_PTDIEN_LR" />
+      <nestedChildShapes>
+        <elementListCompartment Id="43eec143-9d20-4b5c-9d2a-5836a1e44362" absoluteBounds="9.14, 1.46, 1.9700000000000002, 1.7878011067708335" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <associationConnector edgePoints="[(6 : 2.89024983723958); (9.125 : 2.89024983723958)]" fixedFrom="NotFixed" fixedTo="NotFixed">
+      <AssociationMoniker Name="/LDSongDataContext/D_PTDIEN/D_PTDIEN_M_TTHAI_PTDIEN_LR" />
+      <nodes>
+        <classShapeMoniker Id="dc7fb41c-c928-489d-8692-005ba25236c8" />
+        <classShapeMoniker Id="925869c9-18c7-479a-a940-bb2367b22e18" />
+      </nodes>
+    </associationConnector>
+    <classShape Id="911c150c-50a8-46bf-a7da-ed3d547aecc9" absoluteBounds="12.25, 12.5, 2, 2.3478011067708335">
+      <DataClassMoniker Name="/LDSongDataContext/HISTORY_TTHAI_PTDIEN_LR" />
+      <nestedChildShapes>
+        <elementListCompartment Id="568f6b62-7f81-4615-86ac-8d5a9084f478" absoluteBounds="12.265, 12.96, 1.9700000000000002, 1.7878011067708335" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="db4a73d3-21f7-4782-a7a0-671ffeeae20c" absoluteBounds="13.75, 8.5, 2, 3.8862125651041666">
+      <DataClassMoniker Name="/LDSongDataContext/M_VITRI_V3" />
+      <nestedChildShapes>
+        <elementListCompartment Id="b2abcb7a-3f50-4d56-aa95-065dcd8ac8f4" absoluteBounds="13.765, 8.96, 1.9700000000000002, 3.3262125651041665" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="2dc4f1cc-f19f-46d7-b739-bc043bf1edfb" absoluteBounds="6.125, 9.5, 2, 3.6939111328124996">
+      <DataClassMoniker Name="/LDSongDataContext/M_VITRI_V1" />
+      <nestedChildShapes>
+        <elementListCompartment Id="17840c27-7ac9-4397-8802-c9b78a1f5068" absoluteBounds="6.14, 9.96, 1.9700000000000002, 3.1339111328125" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="5d766f54-1315-4af3-bcae-755176c43d59" absoluteBounds="3, 22.375, 2, 8.1168440755208326">
+      <DataClassMoniker Name="/LDSongDataContext/K_THONGSO_V" />
+      <nestedChildShapes>
+        <elementListCompartment Id="42086fba-cd7b-4af7-9e63-e97d461f2910" absoluteBounds="3.0149999999999997, 22.835, 1.9700000000000002, 7.556844075520833" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="c8115a82-9481-4397-acd4-8a407cd74316" absoluteBounds="5.875, 22.75, 2, 7.9245426432291648">
+      <DataClassMoniker Name="/LDSongDataContext/K_THONGSO_CB_V" />
+      <nestedChildShapes>
+        <elementListCompartment Id="3c98cd32-de17-43c0-8b61-211746fc82f7" absoluteBounds="5.89, 23.21, 1.9700000000000002, 7.3645426432291661" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="c6926810-5ace-41b3-a1da-af95d717587c" absoluteBounds="1.125, 2.125, 2, 1.7708968098958331">
+      <DataClassMoniker Name="/LDSongDataContext/D_DVI_QLY" />
+      <nestedChildShapes>
+        <elementListCompartment Id="ddd5805e-3702-44f1-9dc8-337f4fc1714a" absoluteBounds="1.1400000000000001, 2.585, 1.9700000000000002, 1.2108968098958333" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <associationConnector edgePoints="[(3.125 : 3.07294840494792); (4 : 3.07294840494792)]" fixedFrom="NotFixed" fixedTo="NotFixed">
+      <AssociationMoniker Name="/LDSongDataContext/D_DVI_QLY/D_DVI_QLY_D_PTDIEN" />
+      <nodes>
+        <classShapeMoniker Id="c6926810-5ace-41b3-a1da-af95d717587c" />
+        <classShapeMoniker Id="dc7fb41c-c928-489d-8692-005ba25236c8" />
+      </nodes>
+    </associationConnector>
+    <classShape Id="d42e6bd8-5f78-488f-b63f-3a57901b6591" absoluteBounds="3, 7.375, 2, 1.5785953776041666">
+      <DataClassMoniker Name="/LDSongDataContext/D_CAY_TON_THAT" />
+      <nestedChildShapes>
+        <elementListCompartment Id="04bcdea1-f062-4cbd-9d2b-1ea85d99f602" absoluteBounds="3.015, 7.8350000000000009, 1.9700000000000002, 1.0185953776041665" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <associationConnector edgePoints="[(4.34375 : 5.9439111328125); (4.34375 : 7.375)]" fixedFrom="NotFixed" fixedTo="NotFixed">
+      <AssociationMoniker Name="/LDSongDataContext/D_PTDIEN/D_PTDIEN_D_CAY_TON_THAT" />
+      <nodes>
+        <classShapeMoniker Id="dc7fb41c-c928-489d-8692-005ba25236c8" />
+        <classShapeMoniker Id="d42e6bd8-5f78-488f-b63f-3a57901b6591" />
+      </nodes>
+    </associationConnector>
+    <classShape Id="45fc3874-17a9-45bc-a343-a5c1bdbbdd3d" absoluteBounds="10.625, 18.25, 2, 1.1939925130208333">
+      <DataClassMoniker Name="/LDSongDataContext/Bypass" />
+      <nestedChildShapes>
+        <elementListCompartment Id="fb52fb2a-3d3e-4a03-ad12-b7e59c290a8d" absoluteBounds="10.64, 18.71, 1.9700000000000002, 0.63399251302083326" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="48569e41-d35f-44ce-a42f-3cfc1e1efc74" absoluteBounds="7.25, 8.125, 2, 1.7708968098958331">
+      <DataClassMoniker Name="/LDSongDataContext/M_VITRI_SD1S_V" />
+      <nestedChildShapes>
+        <elementListCompartment Id="a0272dea-8e27-4402-a7e3-ebfe02ecc734" absoluteBounds="7.265, 8.585, 1.9700000000000002, 1.2108968098958333" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="1dbceb69-0554-49e7-9803-fe1fd5b20ada" absoluteBounds="8.5, 23, 2, 3.8862125651041666">
+      <DataClassMoniker Name="/LDSongDataContext/M_VITRI_V5_All" />
+      <nestedChildShapes>
+        <elementListCompartment Id="1320c641-5241-4e2c-ad39-fcf080b33c3d" absoluteBounds="8.515, 23.46, 1.9700000000000002, 3.3262125651041665" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="a54f8e32-d06f-4321-a27b-5ed067495013" absoluteBounds="10.875, 23, 2, 3.3093082682291666">
+      <DataClassMoniker Name="/LDSongDataContext/M_VITRI_V5_ALL_TT" />
+      <nestedChildShapes>
+        <elementListCompartment Id="1df9fa5e-4bdc-4314-ae6d-c9fa2f19e0e8" absoluteBounds="10.89, 23.46, 1.9700000000000002, 2.7493082682291665" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="ee3560c8-f575-4737-aef1-f177bf97137c" absoluteBounds="10.5, 16.25, 2, 1.1939925130208333">
+      <DataClassMoniker Name="/LDSongDataContext/Version" />
+      <nestedChildShapes>
+        <elementListCompartment Id="5ecf68dd-67db-4441-a1ab-8230f9b70a8c" absoluteBounds="10.515, 16.71, 1.9700000000000002, 0.63399251302083326" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="24c10e31-ec1d-4046-8bc0-04909c074fcc" absoluteBounds="3.375, 9.375, 2, 3.5016097005208326">
+      <DataClassMoniker Name="/LDSongDataContext/D_ChiTiet_TBA" />
+      <nestedChildShapes>
+        <elementListCompartment Id="5c7e6449-4604-464d-b18d-818fe5d83f4f" absoluteBounds="3.3899999999999997, 9.835, 1.9700000000000002, 2.941609700520833" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <associationConnector edgePoints="[(5 : 5.9439111328125); (5 : 6.5); (4.875 : 6.5); (4.875 : 7.125); (2.875 : 7.125); (2.875 : 8.95359537760417); (2.75 : 8.95359537760417); (2.75 : 11.1258048502604); (3.375 : 11.1258048502604)]" fixedFrom="NotFixed" fixedTo="NotFixed">
+      <AssociationMoniker Name="/LDSongDataContext/D_PTDIEN/D_PTDIEN_D_ChiTiet_TBA" />
+      <nodes>
+        <classShapeMoniker Id="dc7fb41c-c928-489d-8692-005ba25236c8" />
+        <classShapeMoniker Id="24c10e31-ec1d-4046-8bc0-04909c074fcc" />
+      </nodes>
+    </associationConnector>
+    <classShape Id="3166043c-38a1-426d-bfab-c6207a47aec5" absoluteBounds="0.625, 9.125, 2, 1.7708968098958331">
+      <DataClassMoniker Name="/LDSongDataContext/D_Image" />
+      <nestedChildShapes>
+        <elementListCompartment Id="61e04395-18a0-463d-bf75-ffd29a6225e2" absoluteBounds="0.64000000000000012, 9.585, 1.9700000000000002, 1.2108968098958333" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <associationConnector edgePoints="[(5.531252 : 5.9439111328125); (5.531252 : 6.25); (4.625 : 6.25); (4.625 : 6.875); (2.9375 : 6.875); (2.9375 : 8.95359537760417); (2.8125 : 8.95359537760417); (2.8125 : 10.0104484049479); (2.625 : 10.0104484049479)]" fixedFrom="NotFixed" fixedTo="NotFixed">
+      <AssociationMoniker Name="/LDSongDataContext/D_PTDIEN/D_PTDIEN_D_Image" />
+      <nodes>
+        <classShapeMoniker Id="dc7fb41c-c928-489d-8692-005ba25236c8" />
+        <classShapeMoniker Id="3166043c-38a1-426d-bfab-c6207a47aec5" />
+      </nodes>
+    </associationConnector>
+  </nestedChildShapes>
+</ordesignerObjectsDiagram>

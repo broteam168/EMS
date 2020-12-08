@@ -1,0 +1,4 @@
+can cai dat
+EntityFramework by microsoft v6.4.4
+LinqToExcel by paul yoder v1.11.0
+System.Linq.Dynamic.Core by microsoft v1.1.1

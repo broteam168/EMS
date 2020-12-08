@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ordesignerObjectsDiagram dslVersion="1.0.0.0" absoluteBounds="0, 0, 11, 8.5" name="CMISDBO">
+  <DataContextMoniker Name="/CMISDBODataContext" />
+  <nestedChildShapes>
+    <classShape Id="aa6e95c6-bc48-44fb-82ce-9126ccefacbd" absoluteBounds="3.375, 1.25, 2, 2.9247054036458326">
+      <DataClassMoniker Name="/CMISDBODataContext/K_DIEM_DO_TMP" />
+      <nestedChildShapes>
+        <elementListCompartment Id="20ad1741-42fd-45fd-94b8-babf194a173f" absoluteBounds="3.3899999999999997, 1.71, 1.9700000000000002, 2.364705403645833" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="a2fb6021-526d-4608-9e9f-0ac5af069bd3" absoluteBounds="1.125, 1.25, 2, 1.9631982421875005">
+      <DataClassMoniker Name="/CMISDBODataContext/K_KHACH_HANG_TMP" />
+      <nestedChildShapes>
+        <elementListCompartment Id="715734d9-a7c2-449c-80ed-a38451929f38" absoluteBounds="1.1399999999999997, 1.71, 1.9700000000000002, 1.4031982421875" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="dc17a11e-13b8-4644-9809-4ca73be3bddb" absoluteBounds="1.125, 3.375, 2, 1.3862939453125">
+      <DataClassMoniker Name="/CMISDBODataContext/K_DONGBO_CMI" />
+      <nestedChildShapes>
+        <elementListCompartment Id="85b44dfc-4010-4642-8a81-ea2c8cf658f2" absoluteBounds="1.1399999999999997, 3.835, 1.9700000000000002, 0.8262939453125" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+  </nestedChildShapes>
+</ordesignerObjectsDiagram>
