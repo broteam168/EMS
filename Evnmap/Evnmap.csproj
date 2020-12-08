@@ -67,6 +67,11 @@
       <Generator>MSBuild:Compile</Generator>
       <SubType>Designer</SubType>
     </ApplicationDefinition>
+    <Compile Include="Models\Evnmap.designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Evnmap.dbml</DependentUpon>
+    </Compile>
     <Compile Include="Views\AboutBox1.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -471,9 +476,6 @@
   <ItemGroup>
     <Compile Include="Models\IEEE1366.cs" />
     <Compile Include="Models\InsertPTDien.cs" />
-    <Compile Include="Models\LDSong.cs">
-      <DependentUpon>LDSong.dbml</DependentUpon>
-    </Compile>
     <Compile Include="Models\QuanHeModel.cs" />
     <Compile Include="Properties\AssemblyInfo.cs">
       <SubType>Code</SubType>
@@ -675,13 +677,13 @@
     <EmbeddedResource Include="Views\XtraReport1.resx">
       <DependentUpon>XtraReport1.cs</DependentUpon>
     </EmbeddedResource>
-    <None Include="Models\LDSong.dbml">
+    <None Include="Models\Evnmap.dbml">
       <Generator>MSLinqToSQLGenerator</Generator>
-      <LastGenOutput>LDSong.designer.cs</LastGenOutput>
+      <LastGenOutput>Evnmap.designer.cs</LastGenOutput>
       <SubType>Designer</SubType>
     </None>
-    <None Include="Models\LDSong.dbml.layout">
-      <DependentUpon>LDSong.dbml</DependentUpon>
+    <None Include="Models\Evnmap.dbml.layout">
+      <DependentUpon>Evnmap.dbml</DependentUpon>
     </None>
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>

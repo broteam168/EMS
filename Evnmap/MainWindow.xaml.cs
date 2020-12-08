@@ -13,17 +13,19 @@ namespace Evnmap
     public delegate void SetTextFunc(string text);
     public partial class MainWindow : DevExpress.XtraBars.Ribbon.RibbonPage
     {
-
-        string Decentralization, username, loai;
+        /// <summary>
+        ///Decentralization<=phanquyen, Username<=username, Kind=<Loai 
+        /// </summary>
+        private string Decentralization, Username, Kind;
         frmMap frmmap;
         public MainWindow()
         {
              InitializeComponent();
         }
-        public MainWindow(string phanquyen)
+        public MainWindow(string decentralization)
         {
             InitializeComponent();
-            this.phanquyen = phanquyen;
+            this.Decentralization = decentralization;
         }
         public void PhanQuyen(string MenuStr)
         {
