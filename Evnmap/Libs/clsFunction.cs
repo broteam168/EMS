@@ -162,7 +162,7 @@ namespace LDSong.Libs
             byte[] Results;
             System.Text.UTF8Encoding UTF8 = new System.Text.UTF8Encoding();
 
-            // Step 1. We hash the passphrase using MD5
+            // We hash the passphrase using MD5
             // We use the MD5 hash generator as the result is a 128 bit byte array
             // which is a valid length for the TripleDES encoder we use below
 
